@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @GrubbyAxo
+- 👀 I’m interested in HTML and CSS
+- 🌱 I’m currently learning JavaScript, HTML, and CSS
+- 💞️ I’m looking to collaborate on web developmet
+- 📫 How to reach me idk
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like Shrek
